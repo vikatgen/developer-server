@@ -15,6 +15,7 @@
 * start your local developemnt server with:
 	* npm run dev
 	* Open browser and open http://localhost:3000 for local development
+	* ![LOCAL IMAGE](/assets/local.png)
 
 ---
 
