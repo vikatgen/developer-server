@@ -1,5 +1,5 @@
 ## Developers Lite-Server for local development
-### With hot browser reloading (*Broswesync*)
+### With hot browser reloading (*Browsersync*)
 
 **Requirements**
 * NodeJS
