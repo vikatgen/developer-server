@@ -18,5 +18,5 @@
 
 ---
 
-Happy coding! 
+**Happy coding!** 
 
