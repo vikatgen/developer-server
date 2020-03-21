@@ -1,5 +1,5 @@
 ## Developers Lite-Server for local development
-### With hot broswer reloading
+### With hot browser reloading (*Broswesync*)
 
 **Requirements**
 * NodeJS
@@ -14,4 +14,9 @@
 	* "dev": "lite-server"
 * start your local developemnt server with:
 	* npm run dev
+	* Open browser and open http://localhost:3000 for local development
+
+---
+
+Happy coding! 
 
